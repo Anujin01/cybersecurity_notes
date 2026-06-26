@@ -1,2 +1,10 @@
-So today i starting my homelab journey. First, i downloaded oracle virtual box for safety as i'm beginner to this field and installed ubuntu
-for operating system.
+# 🚀 Day 1: Starting My Homelab Journey
+
+Today marks the official beginning of my homelab journey! 
+
+## 💻 Environment Setup
+*   **Hypervisor:** Downloaded **Oracle VM VirtualBox** (a safe, isolated environment perfect for beginners).
+*   **Operating System:** Installed **Ubuntu Linux** to start learning navigation and administration.
+
+
+> 💡 **Next Steps:** Tomorrow, I'll start practicing equivalent commands inside the Ubuntu terminal!
